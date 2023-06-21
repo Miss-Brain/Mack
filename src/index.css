@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.home {
+  background-image: url('C:\Users\USER\Desktop\app\front\src\assets\bkk.jpeg');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100vw ;
+  height: 100vh;
+}
+
+@media (max-width: 768px) {
+  .bg-image {
+    background-image: none;
+  }
+}
