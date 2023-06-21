@@ -15,7 +15,7 @@ const About = () => {
                 </div>
             
             <div className="md:flex justify-between mt-10 px-4" >
-               {/* About Juke */}
+               {/* About Mack */}
                
                <div className="md:w-1/2 mt-10 md:mt-0 mx-4">   
                     <h1 className="text-2xl font-bold font-sans my-4">Mack</h1>
