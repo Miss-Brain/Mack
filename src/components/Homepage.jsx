@@ -25,7 +25,7 @@ const Homepage = () => {
                 {/* text */}
                 <div className="my-auto md:w-1/2  space-y-14 flex-row items-center">
                     <h1 className="text-8xl font-mono font-bold md:text-7xl md:text-left text-left">
-                        JUKE
+                        Mack
                     </h1>
                     <p className="text-left font-sans md:text-left text-2xl">
                         Unleash the power of our state-of-the-art 

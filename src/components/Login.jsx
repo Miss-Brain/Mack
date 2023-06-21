@@ -9,7 +9,7 @@ const Login = () => {
 
             <div className='bg-gray-200 flex flex-col justify-center'>
                 <form className="max-w-[400px] w-full mx-auto bg-white p-4">
-                    <h2 className='text-4xl font-bold text-center py-6'>JUKE</h2>
+                    <h2 className='text-4xl font-bold text-center py-6'>Mack</h2>
                     <div className='flex flex-col py-2'>
                         <label htmlFor="">Username</label>
                         <input className='border' type="text" />

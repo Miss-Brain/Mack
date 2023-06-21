@@ -8,7 +8,7 @@ const Login2 = () => {
 
             <div className="flex justify-center items-center h-full">
                 <form className="max-w-[400px] w-full mx-auto relative bg-white p-8">
-                    <h2 className="text-4xl font-bold text-center py-4">JUKE</h2>
+                    <h2 className="text-4xl font-bold text-center py-4"Mack</h2>
 
                     <div className="flex justify-between py-8">
                         <p className="border shadow-lg hover:shadow-xl px-6 py-2 relatives flex items -center"><AiFillFacebook className="mr-2"/> facebook</p>

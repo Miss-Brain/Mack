@@ -10,7 +10,7 @@ const Login3 = () => {
                 </div>
                 <div className="p-4 flex flex-col justify-around">
                     <form action="">
-                        <h2 className="text-4xl font-bold text-center mb-8">JUKE</h2>
+                        <h2 className="text-4xl font-bold text-center mb-8">Mack</h2>
                         <div>
                             <input className="border p-2 mr-2" type="text" name="" id="" placeholder="Username"/>
                             <input className="border p-2 " type="text" name="" id="" placeholder="Password"/>
